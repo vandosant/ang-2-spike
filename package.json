@@ -1,0 +1,15 @@
+{
+  "name": "ang-2-spike",
+  "version": "1.0.0",
+  "description": "- Playing with the beta of Angular 2 from the quickstart guide: https://angular.io/docs/js/latest/quickstart.html",
+  "main": "app.js",
+  "scripts": {
+    "watch": "tsc --watch -m commonjs -t es5 --emitDecoratorMetadata app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com-personal:vandosant/ang-2-spike.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
